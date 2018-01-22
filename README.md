@@ -1,4 +1,4 @@
-﻿# Demo Project Readme
+# Demo Project Readme
 arquivo simples de demo.
 
 ##HEADING 2
@@ -6,3 +6,5 @@ arquivo simples de demo.
 Alteração anstes do reset!
 
 testando o demo!
+
+alteração feita na branchTreta
